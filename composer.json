@@ -1,0 +1,10 @@
+{
+    "name": "user/myproject",
+    "authors": [
+        {
+            "name": "panda",
+            "email": "dick3004@ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
